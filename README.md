@@ -1,6 +1,9 @@
 # manager-README: My leadership readme/operating manual
 
-_This file was inspired by https://larahogan.me/blog/first-one-on-one-questions/ and a manager job posting I saw which requested a link to a manager-README, if available, in lieu of a cover letter. My search showed that some people think these files are valuable, and some think they are a self-centered waste of time. What do you think?_
+_This file was inspired by https://larahogan.me/blog/first-one-on-one-questions/ and a manager job posting I saw which requested a link to a manager-README, if available, in lieu of a cover letter. My search found a lot of people who have created them (https://managerreadme.com/community) and showed that:_
+* _some people think these files are valuable (e.g. https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b), and_ 
+* _some think they are a self-centered waste of time (e.g. https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0)._ 
+_What do you think?_
 
 ## My Leadership Philosophy
 
