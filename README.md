@@ -1,1 +1,84 @@
 # manager-README
+
+# My leadership readme/operating manual
+
+## My Leadership Philosophy
+
+Success to me lies in helping my team and colleagues succeed. I love helping people to grow and achieve their goals - and am always happy to talk through values and goals if you're not sure about yours. 
+
+For my teams, treating everyone with respect is mandatory. Inclusion - fostering a sense of belonging for everyone - is expected. I believe that 'the first thing you build is trust', that mistakes are to be learned from and not punished, and that conflicts are best resolved by always striving to assume positive intent. 
+
+I assume everyone knows something I don't or is better than me at something, and that I also have something to offer everyone. I do my best to be caring, honest but kind, and empathetic with others. 
+
+I get antsy if I go too long without being challenged in learning something new, whether hard skill or soft skill. 
+
+## My answers to "first 1:1 questions"
+
+### What makes you grumpy?
+
+Finding out that someone I trusted has broken that trust, or not been honest with me. 
+Or running a long streak of sleep deficits - something I try to avoid.
+
+### How will I know when you’re grumpy?
+
+I'll usually say something like "I've had better days" when you ask me how I am.
+
+### How can I help you when you’re grumpy?
+
+Share something positive or make me laugh :)
+
+### How do you like feedback - slack, email, in person, etc?
+
+I like getting feedback 'in person' (interactively) so that we can clarify mutual understanding more quickly, especially if it's negative. Having either in writing is good too because it gives me an accurate record to revisit later and reflect upon; I'll probably write my own notes if it's just verbal.
+
+### How do you like feedback - routine like in 1:1s, or as-it-happens?
+
+As-it-happens is definitely better. I understand though that sometimes 'calling me in' in the moment won't be comfortable or appropriate, so any time or at a routine 1-1 is fine too; sooner is better.
+
+### How do you prefer to receive recognition? (public or private)
+
+Either is fine. Public is great if it won't make someone else uncomfortable. 🎉
+
+### What makes 1:1s the most valuable for you?
+
+Understanding how the environment around is affecting my role, my team, and my colleagues. Knowing that my manager cares enough about me and my role on their team to hold time for me in their busy schedule; making sure my team knows that holding time and space for them is a high priority for me.
+
+### What are your goals for this year? And for the next 3 months?
+
+My current goal is to transition successfully into a new management role with a culture I can build and thrive in, and a mission I believe in that helps me make more of a difference in the world. I will set new goals once I'm in that role.
+
+### What do you need from your manager?
+
+Big-picture guidance on objectives and priorities; trust and autonomy to meet challenges and solve problems and lead; and occasionally, support on escalation for a big impediment that's impacting my team. Mentorship and advice on my own growth is always appreciated, from my manager or from others.
+
+### From your team?
+
+Honest, respectful communications. Acting with integrity. Openness and desire to keep learning and growing.
+
+### From your peers? (outside the team)
+
+Openness and collaboration in the spirit of us all being 'on the same team'.
+
+## My expectations of folks who report to me
+
+In general, I'd rather you over-communicate with me than undercommunicate. Please reach out and tell me if anything ever feels off or is adversely affecting you. If you're under pressure or juggling too many things or facing an unsustainable pace to meet a deadline or feeling like you don't belong, let's talk. 
+
+There's a balance area between always handling even big issues yourself, and always asking for help for the smallest things. Please don't struggle alone with a challenge and then surprise me with the bad news at the last minute that a commitment won't be met. We can only solve or mitigate problems together, or escalate issues to get help from others, if you clue me in - earlier is always better. If it's something I think you should handle on your own, I'll coach you on doing that, to help you grow :) 
+
+Keep your calendar up to date and let people know ahead of time if you need to change a commitment or your availability. Changes are fine; we all need to extend grace to each other, especially now with COVID-19 disruptions to our lives - just don't leave people hanging. (Of course, emergencies are another matter - and if someone misses a commitment with you, please assume positive intent in addressing it.) 
+
+## What you can expect of me as your manager
+
+A weekly 1:1 (unless we decide on a different cadence) where we’ll work on challenges, goals, and priorities to support you and play to your strengths, and any feedback you may have for me will be discussed then as well (if not in-the-moment). As part of our 1-1s, I hope we'll connect as humans to whatever degree feels best for you. 
+
+In weekly team meetings (unless we decide on a different cadence), I will share wider context and ask you to share with the team. 
+    
+In whatever team communications portal or tool(s) we use, I'll share - and expect you all to share - information relevant to the team, between meetings.
+    
+Unless I'm in a meeting or a hard-blocked 'focus time' slot, you should always feel free to initiate a chat or call or message with me. I expect us to talk more than once or twice a week!
+
+I’ll listen and hear your feedback. I want you to feel comfortable and safe doing so, because it is the biggest gift you can give me to help me improve and grow, and to help the team succeed as a whole. When I make mistakes or wrong decisions, please come to me and explain why it's a mistake or wrong, I will listen, and I will do my best to fix it.
+
+I will try to 'walk the talk' - to do myself what I encourage you to do: be open to feedback and continual improvement, be respectful and inclusive of everyone, model healthy work-life balance, and avoid burnout.
+
+My goal will always be clear, kind, honest communication. If you ever feel unsure of what I “really” think, let me know so we can get on the same page.
