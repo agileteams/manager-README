@@ -1,6 +1,6 @@
-# manager-README
+# manager-README: My leadership readme/operating manual
 
-# My leadership readme/operating manual
+_This file was inspired by https://larahogan.me/blog/first-one-on-one-questions/ and a manager job posting I saw which requested a link to a manager-README, if available, in lieu of a cover letter. My search showed that some people think these files are valuable, and some think they are a self-centered waste of time. What do you think?_
 
 ## My Leadership Philosophy
 
@@ -21,7 +21,7 @@ Or running a long streak of sleep deficits - something I try to avoid.
 
 ### How will I know when you’re grumpy?
 
-I'll usually say something like "I've had better days" when you ask me how I am.
+I'll usually say something like "I've had better days" when you ask me how I am. (If the broken trust is between us, I'll bring up the concern in a private 1-1 as quickly as possible.)
 
 ### How can I help you when you’re grumpy?
 
@@ -41,7 +41,9 @@ Either is fine. Public is great if it won't make someone else uncomfortable. �
 
 ### What makes 1:1s the most valuable for you?
 
-Understanding how the environment around is affecting my role, my team, and my colleagues. Knowing that my manager cares enough about me and my role on their team to hold time for me in their busy schedule; making sure my team knows that holding time and space for them is a high priority for me.
+In 1:1 with a member of my team, hearing what's on their mind - what's going well, what isn't, and why - and exploring together what options we have for making things better.  Making sure my team knows that holding time and space for them is a high priority for me.
+
+In 1:1 with my manager, or a skip level, getting a better understanding of how the environment around us is affecting my role, my team, and my colleagues. Knowing that they care enough about me and my role on their team to hold time for me (especially when we need to talk about impediments that are impacting my team) in their busy schedule.
 
 ### What are your goals for this year? And for the next 3 months?
 
@@ -51,11 +53,11 @@ My current goal is to transition successfully into a new management role with a 
 
 Big-picture guidance on objectives and priorities; trust and autonomy to meet challenges and solve problems and lead; and occasionally, support on escalation for a big impediment that's impacting my team. Mentorship and advice on my own growth is always appreciated, from my manager or from others.
 
-### From your team?
+### What do you need from your team?
 
 Honest, respectful communications. Acting with integrity. Openness and desire to keep learning and growing.
 
-### From your peers? (outside the team)
+### What do you need from your peers? (outside the team)
 
 Openness and collaboration in the spirit of us all being 'on the same team'.
 
@@ -63,7 +65,7 @@ Openness and collaboration in the spirit of us all being 'on the same team'.
 
 In general, I'd rather you over-communicate with me than undercommunicate. Please reach out and tell me if anything ever feels off or is adversely affecting you. If you're under pressure or juggling too many things or facing an unsustainable pace to meet a deadline or feeling like you don't belong, let's talk. 
 
-There's a balance area between always handling even big issues yourself, and always asking for help for the smallest things. Please don't struggle alone with a challenge and then surprise me with the bad news at the last minute that a commitment won't be met. We can only solve or mitigate problems together, or escalate issues to get help from others, if you clue me in - earlier is always better. If it's something I think you should handle on your own, I'll coach you on doing that, to help you grow :) 
+There's a balance area between always handling even big issues yourself, and always asking for help for the smallest things. Please don't struggle alone with a challenge and then surprise me with the bad news at the last minute that a commitment won't be met. We can only solve or mitigate problems together, or escalate issues to get timely help from others, if you clue me in - earlier is always better. If it's something I think you should handle on your own, I'll coach you on doing that, to help you grow :) 
 
 Keep your calendar up to date and let people know ahead of time if you need to change a commitment or your availability. Changes are fine; we all need to extend grace to each other, especially now with COVID-19 disruptions to our lives - just don't leave people hanging. (Of course, emergencies are another matter - and if someone misses a commitment with you, please assume positive intent in addressing it.) 
 
@@ -75,10 +77,25 @@ In weekly team meetings (unless we decide on a different cadence), I will share 
     
 In whatever team communications portal or tool(s) we use, I'll share - and expect you all to share - information relevant to the team, between meetings.
     
-Unless I'm in a meeting or a hard-blocked 'focus time' slot, you should always feel free to initiate a chat or call or message with me. I expect us to talk more than once or twice a week!
+You should always feel free to initiate a chat or call or message with me - and I'll answer or respond as quickly as possible (it might not be right away if I'm in a meeting, on another call, or in a hard-blocked 'focus time' slot). If it's urgent, text me instead of using email. I expect us to talk more than once or twice a week!
 
-I’ll listen and hear your feedback. I want you to feel comfortable and safe doing so, because it is the biggest gift you can give me to help me improve and grow, and to help the team succeed as a whole. When I make mistakes or wrong decisions, please come to me and explain why it's a mistake or wrong, I will listen, and I will do my best to fix it.
+I’ll do my best to always listen and hear your feedback. I want you to feel comfortable and safe doing so, because it is the biggest gift you can give me to help me improve and grow, and to help the team succeed as a whole. When I make mistakes or wrong decisions, please come to me and explain why it's a mistake or wrong; I will listen, and I will do my best to fix it.
 
 I will try to 'walk the talk' - to do myself what I encourage you to do: be open to feedback and continual improvement, be respectful and inclusive of everyone, model healthy work-life balance, and avoid burnout.
 
 My goal will always be clear, kind, honest communication. If you ever feel unsure of what I “really” think, let me know so we can get on the same page.
+
+## Human learning and growth requires the right amount of four things: new challenges, low ego, space to reflect and brainstorm, and timely and clear feedback. How are these four going for you? Is there one you need more or less of?
+
+I need to give these some thought and come back to them after my new role is settled.
+- New challenges: 
+- Low ego:
+- Space to reflect and brainstorm:
+- Timely and clear feedback:
+
+## What’s your favorite way to treat yourself?
+
+- Enough quiet alone time to read a whole book cover to cover, or
+- An outdoor photography excursion
+
+_You've read this far ... was this helpful, or no? What else would you like to know?_
