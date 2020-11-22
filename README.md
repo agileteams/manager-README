@@ -9,7 +9,10 @@ _What do you think?_
 
 Success to me lies in helping my team and colleagues succeed. I love helping people to grow and achieve their goals - and am always happy to talk through values and goals if you're not sure about yours. 
 
-For my teams, treating everyone with respect is mandatory. Inclusion - fostering a sense of belonging for everyone - is expected. I believe that 'the first thing you build is trust', that mistakes are to be learned from and not punished, and that conflicts are best resolved by always striving to assume positive intent. 
+For my teams, treating everyone with respect is mandatory. Inclusion - fostering a sense of belonging for everyone - is expected. I believe that:
+* 'the first thing to build is trust', 
+* mistakes are to be learned from, and not punished, and 
+* conflicts are best resolved by always striving to assume positive intent, and by looking for ways to use data to bring objectivity and clarity to a decision. 
 
 I assume everyone knows something I don't or is better than me at something, and that I also have something to offer everyone. I do my best to be caring, honest but kind, and empathetic with others. 
 
