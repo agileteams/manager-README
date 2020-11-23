@@ -27,7 +27,7 @@ Or running a long streak of sleep deficits - something I try to avoid.
 
 ### How will I know when you’re grumpy?
 
-I'll usually say something like "I've had better days" when you ask me how I am. (If the broken trust is between us, I'll bring up the concern in a private 1-1 as quickly as possible.)
+I'll usually say something like "I've had better days" when you ask me how I am. (If the broken trust is between us, I'll bring up the concern in a private 1-1 as quickly as possible.) 
 
 ### How can I help you when you’re grumpy?
 
