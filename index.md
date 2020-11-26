@@ -1,3 +1,5 @@
+# [Agile Teams](https://agileteams.github.io/) - Karen Smiley
+
 # My leadership README ('operating manual')
 
 _This file was inspired by [Lara Hogan's blog](https://larahogan.me/blog/first-one-on-one-questions/) and a manager job posting I saw which requested a link to a manager-README, 
