@@ -25,7 +25,7 @@ honest but kind, and empathetic with others.
 
 ## My answers to "first 1:1 questions"
 
-### What makes you grumpy?
+**What makes you grumpy?**
 
 Finding out that someone I trusted has broken that trust, or not been honest with me. 
 
@@ -33,30 +33,30 @@ Running a long streak of sleep deficits, which I strive to avoid (big believer i
 
 I can get antsy if it's been too long since I've been challenged by learning or doing something new, whether hard skill or soft skill. 
 
-### How will I know when you’re grumpy?
+**How will I know when you’re grumpy?**
 
 I'll usually say something like "I've had better days" when you ask me how I am. (If the broken trust is between us, I'll bring up the concern in a 
 private 1-1 as quickly as possible.) 
 
-### How can I help you when you’re grumpy?
+**How can I help you when you’re grumpy?**
 
 Share something positive or make me laugh :)
 
-### How do you like feedback - slack, email, in person, etc?
+**How do you like feedback - slack, email, in person, etc?**
 
 I like getting feedback 'in person' (interactively) so that we can clarify mutual understanding more quickly, especially if it's negative. Having either in writing 
 is good too because it gives me an accurate record to revisit later and reflect upon; I'll probably write my own notes if it's just verbal.
 
-### How do you like feedback - routine like in 1:1s, or as-it-happens?
+**How do you like feedback - routine like in 1:1s, or as-it-happens?**
 
 As-it-happens is definitely better. I understand though that sometimes 'calling me in' in the moment won't be comfortable or appropriate, so any time or at a 
 routine 1-1 is fine too; sooner is better.
 
-### How do you prefer to receive recognition? (public or private)
+**How do you prefer to receive recognition? (public or private)**
 
 Either is fine. Public is great if it won't make someone else uncomfortable. 🎉
 
-### What makes 1:1s the most valuable for you?
+**What makes 1:1s the most valuable for you?**
 
 In 1:1 with a member of my team, hearing what's on their mind - what's going well, what isn't, and why - and exploring together what options we have for making 
 things better. Making sure my team knows that holding time and space for them is a high priority for me.
@@ -65,25 +65,27 @@ In 1:1 with my manager, or a skip level, getting a better understanding of how t
 Knowing that they care enough about me and my role on their team to hold time for me (especially when we need to talk about impediments that are impacting 
 my team) in their busy schedule.
 
-### What are your goals for this year? And for the next 3 months?
+**What are your goals - for this year, and for the next 3 months?**
 
 My current goal is to transition successfully into a new management role with a culture I can build and thrive in, and a mission I believe in 
-that helps me make more of a difference in the world. I will set new goals once I'm in that role.
+that helps me make more of a difference in the world. I will set new 3-month goals once I'm in that role.
 
-### What do you need from your manager?
+**What do you need from your manager?**
 
 Big-picture guidance on objectives and priorities; trust and autonomy to meet challenges and solve problems and lead; and occasionally, support on 
 escalation for a big impediment that's impacting my team. Mentorship and advice on my own growth is always appreciated, from my manager or from others.
 
-### What do you need from your team?
+**What do you need from your team?**
 
 Honest, respectful communications. Acting with integrity. Openness and desire to keep learning and growing. Uplifting your teammates.
 
-### What do you need from your peers? (outside the team)
+**What do you need from your peers? (outside the team)**
 
 Openness and collaboration in the spirit of us all being 'on the same team' and working towards shared goals, regardless of whether we report to the same higher-up.
 
-## My expectations of folks who report to me
+## For folks who report to me
+
+**My expectations**
 
 In general, I'd rather you over-communicate with me than under-communicate. Please reach out and tell me if anything ever feels off or is adversely affecting you. 
 If you're under pressure, or juggling too many things, or facing an unsustainable pace to meet a deadline, or feeling like you don't belong, let's talk. 
@@ -97,7 +99,7 @@ Keep your calendar up to date and let people know ahead of time if you need to c
 Changes are fine; we all need to extend grace to each other, especially now with COVID-19 disruptions to our lives - just don't leave people hanging. 
 _(Of course, emergencies are another matter - and if someone misses a commitment with you, please assume positive intent in addressing it.)_ 
 
-## What you can expect of me as your manager
+**What you can expect of me as your manager**
 
 A weekly 1:1 _(unless we decide on a different cadence)_ where we’ll work on challenges, goals, and priorities to support you and play to your strengths, 
 and any feedback you may have for me will be discussed then as well (if not in-the-moment). As part of our 1-1s, I hope we'll connect as humans 
@@ -121,8 +123,10 @@ of everyone, model healthy work-life balance, and avoid burnout. I'll probably s
 
 My goal will always be clear, kind, honest communication. If you ever feel unsure of what I “really” think, let me know so we can get on the same page.
 
-## Human learning and growth requires the right amount of four things: new challenges, low ego, space to reflect and brainstorm, and timely and clear feedback. 
-How are these four going for you? Is there one you need more or less of?
+## Learning and Growth
+
+**Human learning and growth requires the right amount of four things: new challenges, low ego, space to reflect and brainstorm, and timely and clear feedback. 
+How are these four going for you? Is there one you need more or less of?**
 
 I need to give these some thought and come back to them after my new role is settled.
 - New challenges: 
@@ -130,7 +134,7 @@ I need to give these some thought and come back to them after my new role is set
 - Space to reflect and brainstorm:
 - Timely and clear feedback:
 
-## What’s your favorite way to treat yourself?
+**What’s your favorite way to treat yourself?**
 
 - Enough quiet alone time to read a whole book cover to cover, or
 - An outdoor photography excursion
